@@ -1,2 +1,2 @@
 # Calculator
-Just a simple calculator. Nothing special about it.
+Created few years ago. Implements the concept of Java Components.
